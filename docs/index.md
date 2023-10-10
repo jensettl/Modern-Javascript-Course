@@ -1,6 +1,6 @@
 # Modern JavaScript (Complete Guide)
 
-This is the documentation for the course "[Modern JavaScript (Complete Guide)](https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/)" on Udemy. To keep it simple, the documentation was created in German.
+This is the documentation for the course "[Modern JavaScript (Complete Guide)](https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/)" on Udemy.
 
 ## Setting up the Environment
 
