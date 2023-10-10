@@ -30,6 +30,10 @@ This is the documentation for the course "[Modern JavaScript (Complete Guide)](h
 
 ### Chapter 5: The Document Object Model
 
+[Chapter05 - The Document Object Model](/Modern-Javascript-Course/chapter05-TheDocumentObjectModel/)
+
+> **Topics**: The DOM, Query Selector, Other Ways to Query the DOM, Adding & Chainging Page Content, Getting & Setting Attributes, Changing CSS Styles, Adding & Removing Classes, Parents, Children & Siblings, Event Basics, Creating & Removing Elements, Event Bubbeling, More DOM Events, Building a Popup
+
 ### Chapter 6: Forms & Form Events
 
 ### Section 7: Project - Interactive Quiz
