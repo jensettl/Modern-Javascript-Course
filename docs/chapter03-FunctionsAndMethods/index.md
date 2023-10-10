@@ -129,4 +129,44 @@ getTodos((err, data) => {
 });
 ```
 
+## Excurse: Object Methods
+
+Methods are functions that are part of an object. Methods can be declared with the `function` keyword or with the `arrow` keyword.
+
+```javascript
+const user = {
+	name: "Peter",
+	age: 30,
+	email: ""
+	location: "Berlin",
+	blogs: ["Why Mac & Cheese rules", "10 things to make with Marmite"],
+	login: function () {
+		console.log("the user logged in");
+	},
+	logout() {
+		console.log("the user logged out");
+	},
+	logBlogs() {
+		console.log("this user has written the following blogs:");
+		this.blogs.forEach((blog) => {
+			console.log(blog);
+		});
+	},
+};
+
+user.login(); // the user logged in
+user.logout(); // the user logged out
+user.logBlogs(); // this user has written the following blogs: Why Mac & Cheese rules, 10 things to make with Marmite
+```
+
+## Excurse: Method Chaining
+
+Method Chaining is a technique that allows multiple methods to be called on the same line.
+
+```javascript
+const name = "Peter";
+
+name.toUpperCase().split(""); // ["P", "E", "T", "E", "R"]
+```
+
 [Zurück zur Übersicht](/Modern-Javascript-Course/) | [Nächstes Kapitel](/Modern-Javascript-Course/chapter04-ObjectLiterals)

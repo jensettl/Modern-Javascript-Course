@@ -8,20 +8,25 @@ This is the documentation for the course "[Modern JavaScript (Complete Guide)](h
 
 [Chapter01 - Javascript Basics](/Modern-Javascript-Course/chapter01-JavaScriptBasics/)
 
-- Introduction,
-  Adding Javascript to a Web Page, the Browser Console, Variables, Constants, Data Types, Strings, Numbers, Template Strings, Arrays, Null & Undefined, Booleans & Comparisons, Type Conversion
+> **Topics**: Adding Javascript to a Web Page, the Browser Console, Variables, Constants, Data Types, Strings, Numbers, Template Strings, Arrays, Null & Undefined, Booleans & Comparisons, Type Conversion
 
 ### Chapter 2: Control Flow Basics
 
 [Chapter02 - Control Flow Basics](/Modern-Javascript-Course/chapter02-ControlFlowBasics/)
 
+> **Topics**: For-Loops, While-Loops, If Statements, Logical Operators, Logical NOT, Break & Continue, Switch Statements, Block Scope
+
 ### Chapter 3: Functions & Methods
 
 [Chapter03 - Functions & Methods](/Modern-Javascript-Course/chapter03-FunctionsAndMethods)
 
+> **Topics**: Function Declarations, Function Expressions, Arrow Functions, Callback Functions, Foreach Method & Arrow Functions, Return Values, Object Methods, Method Chaining
+
 ### Chapter 4: Object Literals
 
 [Chapter04 - Object Literals](/Modern-Javascript-Course/chapter04-ObjectLiterals/)
+
+> **Topics**: Object Literals, Dot Notation, this-keyword, Arrays of Objects, Math Object, Primitve vs. Reference Types, Date Object, JSON Object
 
 ### Chapter 5: The Document Object Model
 

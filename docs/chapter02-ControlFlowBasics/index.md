@@ -153,4 +153,16 @@ if (true) {
 }
 ```
 
+## Excursus: Ternary Operator
+
+The Ternary Operator is a shorter way to write an `if` statement.
+
+```javascript
+const age = 25;
+
+age > 20
+	? console.log("you are over 20 years old")
+	: console.log("you are under 20 years old");
+```
+
 [Zurück zur Übersicht](/Modern-Javascript-Course/) | [Nächstes Kapitel](/Modern-Javascript-Course/chapter03-FunctionsAndMethods)
