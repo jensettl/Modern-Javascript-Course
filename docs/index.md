@@ -4,21 +4,28 @@ This is the documentation for the course "[Modern JavaScript (Complete Guide)](h
 
 ## Course Content
 
-### Section 1: JavaScript Basics
+### Chapter 1: JavaScript Basics
 
 [Chapter01 - Javascript Basics](/Modern-Javascript-Course/chapter01-JavaScriptBasics/)
 
-### Section 2: Control Flow Basics
+- Introduction,
+  Adding Javascript to a Web Page, the Browser Console, Variables, Constants, Data Types, Strings, Numbers, Template Strings, Arrays, Null & Undefined, Booleans & Comparisons, Type Conversion
+
+### Chapter 2: Control Flow Basics
 
 [Chapter02 - Control Flow Basics](/Modern-Javascript-Course/chapter02-ControlFlowBasics/)
 
-### Section 3: Functions & Methods
+### Chapter 3: Functions & Methods
 
-### Section 4: Object Literals
+[Chapter03 - Functions & Methods](/Modern-Javascript-Course/chapter03-FunctionsAndMethods)
 
-### Section 5: The Document Object Model
+### Chapter 4: Object Literals
 
-### Section 6: Forms & Form Events
+[Chapter04 - Object Literals](/Modern-Javascript-Course/chapter04-ObjectLiterals/)
+
+### Chapter 5: The Document Object Model
+
+### Chapter 6: Forms & Form Events
 
 ### Section 7: Project - Interactive Quiz
 
