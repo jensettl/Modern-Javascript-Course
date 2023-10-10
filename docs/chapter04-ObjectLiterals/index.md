@@ -1,4 +1,4 @@
-# Chapter03 - Object Literals
+# Chapter04 - Object Literals
 
 [Zurück zur Übersicht](/Modern-Javascript-Course/) | [Nächstes Kapitel](/Modern-Javascript-Course/chapter05-DocumentObjectModel)
 
@@ -146,3 +146,5 @@ const user = {
 	age: 30,
 };
 ```
+
+[Zurück zur Übersicht](/Modern-Javascript-Course/) | [Nächstes Kapitel](/Modern-Javascript-Course/chapter05-DocumentObjectModel)
