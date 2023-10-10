@@ -2,13 +2,24 @@
 
 This is the documentation for the course "[Modern JavaScript (Complete Guide)](https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/)" on Udemy. To keep it simple, the documentation was created in German.
 
+## Setting up the Environment
+
+Installing Visual Studio Code with Extension "Live Server".
+
 ## Course Content
 
-### Section 1: Getting Started
+### Section 1: JavaScript Basics
 
-[Chapter01 - Javascript Bascis](/docs/chapter01-JavaScriptBasics/)
-[Chapter01 - Javascript Bascis](/Modern-Javascript-Course/Basics/)
+[Chapter01 - Javascript Basics](/Modern-Javascript-Course/chapter01-JavaScriptBasics/)
 
-### Section 2: JavaScript Language Basics
+### Section 2: Control Flow Basics
 
-[(TODO) Hier geht es zum zweiten Modul: Die Grundlagen](/git-workshop/2-basics/)
+### Section 3: Functions & Methods
+
+### Section 4: Object Literals
+
+### Section 5: The Document Object Model
+
+### Section 6: Forms & Form Events
+
+### Section 7: Project - Interactive Quiz
