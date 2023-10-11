@@ -4,6 +4,8 @@ This is the documentation for the course "[Modern JavaScript (Complete Guide)](h
 
 ## Course Content
 
+---
+
 ### Chapter 1: JavaScript Basics
 
 > **Topics**: Adding Javascript to a Web Page, the Browser Console, Variables, Constants, Data Types, Strings, Numbers, Template Strings, Arrays, Null & Undefined, Booleans & Comparisons, Type Conversion
@@ -52,7 +54,37 @@ This is the documentation for the course "[Modern JavaScript (Complete Guide)](h
 
 ---
 
-### Section 7: Project - Interactive Quiz
+### Chapter 7: PROJECT Quiz
+
+> **Topics**: Project Quiz, Project Quiz - Solution
+
+[Chapter07 - Project Quiz](/Modern-Javascript-Course/chapter07-ProjectQuiz/)
+
+---
+
+### Chapter 8: Array Methods
+
+> **Topics**: Array Methods, Filter Method, Map Method, Reduce Method, Find Method, Sort Method, Chaining Array Methods
+
+[Chapter08 - Array Methods](/Modern-Javascript-Course/chapter08-ArrayMethods/)
+
+---
+
+### Chapter 9: PROJECT Todo List
+
+> **Topics**: Event Listeners, Array Methods, Form Events, Deleting Todo's, Filtering Todos
+
+[Chapter09 - Project Todo List](/Modern-Javascript-Course/chapter09-ProjectTodoList/)
+
+---
+
+### Section 10: Dates & Times
+
+> **Topics**: Dates & Times, Unix Timestamps, Comparing Dates, Formatting Dates
+
+[Chapter10 - Dates & Times](/Modern-Javascript-Course/chapter10-DatesAndTimes/)
+
+---
 
 ## Setting up the Environment
 
