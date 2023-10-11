@@ -74,17 +74,95 @@ This is the documentation for the course "[Modern JavaScript (Complete Guide)](h
 
 > **Topics**: Event Listeners, Array Methods, Form Events, Deleting Todo's, Filtering Todos
 
-[Chapter09 - Project Todo List](/Modern-Javascript-Course/chapter09-ProjectTodoList/)
+[Chapter09 - Project Todo List](/Modern-Javascript-Course/chapter09-ProjectTodoList/index.html)
 
 ---
 
-### Section 10: Dates & Times
+### Chapter 10: Dates & Times
 
 > **Topics**: Dates & Times, Unix Timestamps, Comparing Dates, Formatting Dates
 
 [Chapter10 - Dates & Times](/Modern-Javascript-Course/chapter10-DatesAndTimes/)
 
 ---
+
+### Chapter 11: Async JavaScript
+
+> **Topics**: Async JavaScript, HTTP Requests, Callback Functions, JSON Data, Async & Await, Throwing Errors
+
+[Chapter11 - Async JavaScript](/Modern-Javascript-Course/chapter11-AsyncJavaScript/)
+
+---
+
+### Chapter 12: PROJECT Weather App
+
+> **Topics**: Fetch API, Async & Await, Throwing Errors, Chaining Promises, Handling Errors, Geolocation API, OpenWeather API, Project Weather App - Solution
+
+[TODO Chapter12 - Project Weather App](/Modern-Javascript-Course/chapter12-WeatherApp/)
+
+---
+
+### Chapter 13: Local Storage
+
+> **Topics**: Local Storage, Storing & Retrieving Strings, Storing & Retrieving Arrays & Objects, Project Local Storage - Solution
+
+[Chapter13 - Local Storage](/Modern-Javascript-Course/chapter13-LocalStorage/)
+
+---
+
+### Chapter 14: Object Oriented JavaScript
+
+> **Topics**: Object Oriented JavaScript, Constructor Functions, Prototypes, Classes, Subclasses, Project OOP Booklist - Solution
+
+[Chapter14 - Object Oriented JavaScript](/Modern-Javascript-Course/chapter14-ObjectOrientedJavaScript/)
+
+---
+
+### Chapter 15: Databases (Firebase)
+
+> **Topics**: Databases (Firebase), Adding Documents, Getting Documents, Querying Documents, Deleting Documents, Updating Documents, Realtime Listeners, Project Firebase Chat UI - Solution
+
+[Chapter15 - Databases (Firebase)](/Modern-Javascript-Course/chapter15-DatabasesFirebase/)
+
+---
+
+### Chapter 16: PROJECT Real-time Chatroom
+
+> **Topics**:
+
+[Chapter16 - Project Real-time Chatroom](/Modern-Javascript-Course/chapter16-RealtimeChatroom/)
+
+---
+
+### Chapter 17: More ES6 Features
+
+> **Topics**:
+
+[Chapter17 - More ES6 Features](/Modern-Javascript-Course/chapter17-MoreES6Features/)
+
+---
+
+### Chapter 18: Modern Workflow with Babel & Webpack
+
+> **Topics**:
+
+[Chapter18 - Modern Workflow with Babel & Webpack](/Modern-Javascript-Course/chapter18-ModernWorkflow/)
+
+---
+
+### Chapter 19: PROJECT UI Library
+
+> **Topics**:
+
+[Chapter19 - Project UI Library](/Modern-Javascript-Course/chapter19-ProjectUILibrary/)
+
+---
+
+### Chapter 20: Using Firebase Database (& Authentication)
+
+> **Topics**:
+
+[Chapter20 - Using Firebase Database (& Authentication)](/Modern-Javascript-Course/chapter20-UsingFirebaseDatabase/)
 
 ## Setting up the Environment
 
