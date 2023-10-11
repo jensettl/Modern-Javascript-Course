@@ -56,9 +56,9 @@ This is the documentation for the course "[Modern JavaScript (Complete Guide)](h
 
 ### Chapter 7: PROJECT Quiz
 
-> **Topics**: Project Quiz, Project Quiz - Solution
+> **Topics**:
 
-[Chapter07 - Project Quiz](/Modern-Javascript-Course/chapter07-ProjectQuiz/)
+[Chapter07 - Project Quiz](Modern-Javascript-Course/chapter07-Project-Quiz/index.html)
 
 ---
 
@@ -98,7 +98,7 @@ This is the documentation for the course "[Modern JavaScript (Complete Guide)](h
 
 > **Topics**: Fetch API, Async & Await, Throwing Errors, Chaining Promises, Handling Errors, Geolocation API, OpenWeather API, Project Weather App - Solution
 
-[TODO Chapter12 - Project Weather App](/Modern-Javascript-Course/chapter12-WeatherApp/)
+[TODO Chapter12 - Project Weather App](/Modern-Javascript-Course/chapter12-WeatherApp/index.html)
 
 ---
 
