@@ -1,6 +1,6 @@
 # Chapter18 - Modern Workflow with Babel & Webpack
 
-[< Previous Chapter](/Modern-Javascript-Course/chapter17-MoreES6Features) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter20-UsingFirebaseDatabase/)
+[< Previous Chapter](/Modern-Javascript-Course/chapter17-MoreES6Features) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter19-UsingFirebaseDatabase/)
 
 ---
 
@@ -179,4 +179,4 @@ module.exports = {
 
 ---
 
-[< Previous Chapter](/Modern-Javascript-Course/chapter17-MoreES6Features) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter20-UsingFirebaseDatabase/)
+[< Previous Chapter](/Modern-Javascript-Course/chapter17-MoreES6Features) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter19-UsingFirebaseDatabase/)
