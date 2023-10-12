@@ -58,10 +58,9 @@ The code mentioned in this repository belongs to the course and is not my own. I
 
 ### Chapter 7: PROJECT Quiz
 
-> **Topics**:
+> **Topics**: Bootstrap, HTML Templates, Query Selectors, Form Events, DOM Manipulation, Array Methods
 
-[Chapter07 - Project Quiz](Modern-Javascript-Course/chapter07-Project-Quiz\index.html)
-[Chapter07 - Project Quiz](chapter07-Project-Quiz\index.html)
+[Chapter07 - PROJECT Quiz](chapter07-Project-Quiz\index.html)
 
 ---
 
@@ -77,7 +76,7 @@ The code mentioned in this repository belongs to the course and is not my own. I
 
 > **Topics**: Event Listeners, Array Methods, Form Events, Deleting Todo's, Filtering Todos
 
-[Chapter09 - Project Todo List](/Modern-Javascript-Course/chapter09-ProjectTodoList/index.html)
+[Chapter09 - PROJECT Todo List](chapter09-todoList\index.html)
 
 ---
 
@@ -101,7 +100,7 @@ The code mentioned in this repository belongs to the course and is not my own. I
 
 > **Topics**: Fetch API, Async & Await, Throwing Errors, Chaining Promises, Handling Errors, Geolocation API, OpenWeather API, Project Weather App - Solution
 
-[TODO Chapter12 - Project Weather App](/Modern-Javascript-Course/chapter12-WeatherApp/index.html)
+[TODO Chapter12 - PROJECT Weather App](chapter12-WeatherApp\index.html)
 
 ---
 
@@ -131,7 +130,7 @@ The code mentioned in this repository belongs to the course and is not my own. I
 
 ### Chapter 16: PROJECT Real-time Chatroom
 
-> **Topics**:
+> **Topics**: Connecting Firebase, Firestore, Real-time Database Connection, Querying Firestore, Adding New Chat Documents, Setting up a Real-time Listener, Updating the Room & Username, Unsubscribing from Real-time Listeners, LocalStorage
 
 [Chapter16 - Project Real-time Chatroom](/Modern-Javascript-Course/chapter16-RealtimeChatroom/)
 
@@ -139,7 +138,7 @@ The code mentioned in this repository belongs to the course and is not my own. I
 
 ### Chapter 17: More ES6 Features
 
-> **Topics**:
+> **Topics**: Spread & Rest, Destructuring, Sets & Maps, Symbols
 
 [Chapter17 - More ES6 Features](/Modern-Javascript-Course/chapter17-MoreES6Features/)
 
@@ -147,41 +146,14 @@ The code mentioned in this repository belongs to the course and is not my own. I
 
 ### Chapter 18: Modern Workflow with Babel & Webpack
 
-> **Topics**:
+> **Topics**: Introduction to Babel, Using Babel CLI, Setting up Webpack File, Webpack CLI, Introduction to Modules, Default Exports, Watching for Changes, Webpack Dev Server, Production & Development Mode,
 
 [Chapter18 - Modern Workflow with Babel & Webpack](/Modern-Javascript-Course/chapter18-ModernWorkflow/)
 
 ---
 
-### Chapter 19: PROJECT UI Library
+### Chapter 19: Using Firebase Database (& Authentication)
 
 > **Topics**:
 
-[Chapter19 - Project UI Library](/Modern-Javascript-Course/chapter19-ProjectUILibrary/)
-
----
-
-### Chapter 20: Using Firebase Database (& Authentication)
-
-> **Topics**:
-
-[Chapter20 - Using Firebase Database (& Authentication)](/Modern-Javascript-Course/chapter20-UsingFirebaseDatabase/)
-
-## Setting up the Environment
-
-### Installing Node.js
-
-1. Download and install Node.js from [nodejs.org](https://nodejs.org/en/).
-2. Check the installation by running `node -v` in the terminal.
-
-### Installing Visual Studio Code
-
-1. Download and install Visual Studio Code from [code.visualstudio.com](https://code.visualstudio.com/).
-2. Check the installation by running `code .` in the terminal.
-
-### Extensions for Visual Studio Code
-
-1. Open Visual Studio Code.
-2. Open the Extensions tab.
-3. Search for "Live Server" and "ESLint".
-4. Install the extension.
+[Chapter19 - Using Firebase Database (& Authentication)](/Modern-Javascript-Course\chapter19-UsingFirebaseDatabase)
