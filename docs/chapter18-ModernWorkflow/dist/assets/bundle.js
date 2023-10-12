@@ -1,0 +1,1 @@
+(()=>{const o=o=>console.log(`Hello ${o}!`);o("World"),o("Universe")})();
