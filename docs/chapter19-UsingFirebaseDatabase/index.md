@@ -1,6 +1,6 @@
 # Chapter19 - Using Firebase Databses Version 9
 
-[Zurück zur Übersicht](/Modern-Javascript-Course/) | [Nächstes Kapitel](/Modern-Javascript-Course/chapter06-FormAndFormEvents)
+[< Previous Chapter](/Modern-Javascript-Course/chapter18-ModernWorkflow) | [**Back to Overview**](/Modern-Javascript-Course/)
 
 ---
 
@@ -103,3 +103,7 @@ const docRef = await addDoc(collectionRef, {
 // Deleting Data
 await deleteDoc(doc(collectionRef, "document-id"));
 ```
+
+---
+
+[< Previous Chapter](/Modern-Javascript-Course/chapter18-ModernWorkflow) | [**Back to Overview**](/Modern-Javascript-Course/)

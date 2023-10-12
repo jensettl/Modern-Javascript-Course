@@ -1,6 +1,8 @@
 # Chapter01 - JavaScript Basics
 
-[Zurück zur Übersicht](/Modern-Javascript-Course/) | [Nächstes Kapitel](/Modern-Javascript-Course/chapter02-ControlFlowBasics)
+[**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter02-ControlFlowBasics)
+
+---
 
 ## Adding JavaScript to a Web Page
 
@@ -218,4 +220,4 @@ console.log(score + 1); // 101
 console.log(typeof score); // number
 ```
 
-[Zurück zur Übersicht](/Modern-Javascript-Course/) | [Nächstes Kapitel](/Modern-Javascript-Course/chapter02-ControlFlowBasics)
+[**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter02-ControlFlowBasics)

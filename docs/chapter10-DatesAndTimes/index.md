@@ -1,6 +1,8 @@
 # Chapter10 - Dates and Times
 
-[Zurück zur Übersicht](/Modern-Javascript-Course/) | [Nächstes Kapitel](/Modern-Javascript-Course/chapter11-AsyncJavaScript/)
+[< Previous Chapter](/Modern-Javascript-Course/chapter08-ArrayMethods) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter11-AsyncJavaScript)
+
+---
 
 ## Dates & Times in JavaScript
 
@@ -54,3 +56,7 @@ console.log(now); // 2023-10-11T10:30:15.000Z
 console.log(before); // 2019-12-27T10:30:15.000Z
 console.log(formatDistance(now, before));
 ```
+
+---
+
+[< Previous Chapter](/Modern-Javascript-Course/chapter08-ArrayMethods) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter11-AsyncJavaScript)

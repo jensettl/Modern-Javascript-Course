@@ -1,6 +1,8 @@
-# Chapter07 - Array Methods
+# Chapter08 - Array Methods
 
-[Zurück zur Übersicht](/Modern-Javascript-Course/)
+[< Previous Chapter](/Modern-Javascript-Course/chapter06-FormAndFormEvents) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter10-DatesAndTimes)
+
+---
 
 Array Methods are functions that are built into JavaScript and can be called on arrays. They are used to make working with arrays easier and more efficient.
 
@@ -105,3 +107,7 @@ const bioSale = products
 console.log(bioSale); // [9, 7.2, 10.8]
 
 ```
+
+---
+
+[< Previous Chapter](/Modern-Javascript-Course/chapter06-FormAndFormEvents) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter10-DatesAndTimes)

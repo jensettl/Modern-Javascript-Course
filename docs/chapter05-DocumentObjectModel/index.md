@@ -1,6 +1,6 @@
 # Chapter05 - Document Object Model
 
-[Zurück zur Übersicht](/Modern-Javascript-Course/) | [Nächstes Kapitel](/Modern-Javascript-Course/chapter06-FormAndFormEvents)
+[< Previous Chapter](/Modern-Javascript-Course/chapter04-ObjectLiterals) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter06-FormsAndFormEvents)
 
 The Document Object Model (DOM) is a programming interface for HTML and XML documents. It represents the page so that programs can change the document structure, style, and content. The DOM represents the document as nodes and objects. That way, programming languages can connect to the page.
 
@@ -242,4 +242,6 @@ There are many more DOM events like `mouseover`, `mouseout`, `mousemove`, `keydo
 
 > You can find a list of all DOM events [here](https://developer.mozilla.org/en-US/docs/Web/Events).
 
-[Zurück zur Übersicht](/Modern-Javascript-Course/) | [Nächstes Kapitel](/Modern-Javascript-Course/chapter06-FormAndFormEvents)
+---
+
+[< Previous Chapter](/Modern-Javascript-Course/chapter04-ObjectLiterals) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter06-FormsAndFormEvents)

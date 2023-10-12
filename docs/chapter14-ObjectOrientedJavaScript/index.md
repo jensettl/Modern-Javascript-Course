@@ -1,6 +1,8 @@
 # Chapter14 - Object Oriented JavaScript
 
-[Zurück zur Übersicht](/Modern-Javascript-Course/) | [Nächstes Kapitel](/Modern-Javascript-Course/chapter15-DatabasesFirebase/)
+[< Previous Chapter](/Modern-Javascript-Course/chapter13-LocalStorage) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter15-DatabasesFirebase/)
+
+---
 
 ## What is OOP?
 
@@ -125,3 +127,7 @@ User.prototype.login = function () {
 ## Built-in Objects
 
 Everything ultimately derives from the `Object` constructor.
+
+---
+
+[< Previous Chapter](/Modern-Javascript-Course/chapter13-LocalStorage) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter15-DatabasesFirebase/)

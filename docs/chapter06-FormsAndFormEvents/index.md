@@ -1,6 +1,8 @@
 # Chapter06 - Forms & Form Events
 
-[Zurück zur Übersicht](/Modern-Javascript-Course/) | [Nächstes Kapitel](/Modern-Javascript-Course/chapter07-Project-Quiz)
+[< Previous Chapter](/Modern-Javascript-Course/chapter05-DocumentObjectModel) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter08-ArrayMethods)
+
+---
 
 Forms are used to collect user input. They are used to create logins, contact forms, and more. Forms are made up of form elements like inputs, buttons, checkboxes, and more.
 
@@ -76,4 +78,6 @@ form.username.addEventListener("keyup", (event) => {
 });
 ```
 
-[Zurück zur Übersicht](/Modern-Javascript-Course/) | [Nächstes Kapitel](/Modern-Javascript-Course/chapter07-Project-Quiz)
+---
+
+[< Previous Chapter](/Modern-Javascript-Course/chapter05-DocumentObjectModel) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter08-ArrayMethods)

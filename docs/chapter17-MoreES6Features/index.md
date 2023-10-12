@@ -1,6 +1,8 @@
 # Chapter17 - More ES6 Features
 
-[Zurück zur Übersicht](/Modern-Javascript-Course/) | [Voriges Kapitel](/Modern-Javascript-Course/chapter15-DatabasesFirebase/) | [Nächstes Kapitel](/Modern-Javascript-Course/chapter18-ModernWorkflow/)
+[< Previous Chapter](/Modern-Javascript-Course/chapter15-DatabasesFirebase) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter18-ModernWorkflow/)
+
+---
 
 ---
 
@@ -100,3 +102,7 @@ const courseInfo = { title: "JavaScript - The Complete Guide" };
 
 courseInfo[id] = 12345;
 ```
+
+---
+
+[< Previous Chapter](/Modern-Javascript-Course/chapter15-DatabasesFirebase) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter18-ModernWorkflow/)

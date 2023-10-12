@@ -1,6 +1,8 @@
 # Chapter02 - Control Flow Basics
 
-[Zurück zur Übersicht](/Modern-Javascript-Course/) | [Nächstes Kapitel](/Modern-Javascript-Course/chapter03-FunctionsAndMethods)
+[< Previous Chapter](/Modern-Javascript-Course/chapter01-JavaScriptBasics) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter03-FunctionsAndMethods)
+
+---
 
 Control Flow is being used to execute code conditionally. Control Flow can be done with `if` statements, `else if` statements, `else` statements and `switch` statements.
 Other than that there are loops like `for` loops, `while` loops and `do while` loops.
@@ -165,4 +167,6 @@ age > 20
 	: console.log("you are under 20 years old");
 ```
 
-[Zurück zur Übersicht](/Modern-Javascript-Course/) | [Nächstes Kapitel](/Modern-Javascript-Course/chapter03-FunctionsAndMethods)
+---
+
+[< Previous Chapter](/Modern-Javascript-Course/chapter01-JavaScriptBasics) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter03-FunctionsAndMethods)

@@ -1,6 +1,8 @@
 # Chapter13 - LocalStorage
 
-[Zurück zur Übersicht](/Modern-Javascript-Course/) | [Nächstes Kapitel](/Modern-Javascript-Course/chapter14-ObjectOrientedJavaScript/)
+[< Previous Chapter](/Modern-Javascript-Course/chapter11-AsyncJavaScript) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter14-ObjectOrientedJavaScript/)
+
+---
 
 ## What is Local Storage
 
@@ -52,3 +54,7 @@ localStorage.setItem("todos", JSON.stringify(todos));
 const stored = localStorage.getItem("todos");
 console.log(JSON.parse(stored));
 ```
+
+---
+
+[< Previous Chapter](/Modern-Javascript-Course/chapter11-AsyncJavaScript) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter14-ObjectOrientedJavaScript/)

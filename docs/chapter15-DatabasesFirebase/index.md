@@ -1,6 +1,8 @@
 # Chapter15 - Databases Firebase
 
-[Zurück zur Übersicht](/Modern-Javascript-Course/) | [Nächstes Kapitel](/Modern-Javascript-Course/chapter17-MoreES6Features)
+[< Previous Chapter](/Modern-Javascript-Course/chapter14-ObjectOrientedJavaScript) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter17-MoreES6Features)
+
+---
 
 ## NoSQL Databases
 
@@ -117,3 +119,7 @@ unsubscribe();
 [https://firebase.google.com/docs/firestore/quickstart](https://firebase.google.com/docs/firestore/quickstart)
 
 [Course GitHub Repository](https://github.com/iamshaunjp/modern-javascript/blob/lesson-132/chapter_16/sandbox.js)
+
+---
+
+[< Previous Chapter](/Modern-Javascript-Course/chapter14-ObjectOrientedJavaScript) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter17-MoreES6Features)

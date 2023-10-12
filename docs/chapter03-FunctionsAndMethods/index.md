@@ -1,6 +1,8 @@
 # Chapter03 - Functions and Methods
 
-[Zurück zur Übersicht](/Modern-Javascript-Course/) | [Nächstes Kapitel](/Modern-Javascript-Course/chapter04-ObjectLiterals)
+[< Previous Chapter](/Modern-Javascript-Course/chapter03-FunctionsAndMethods) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter04-ObjectLiterals)
+
+---
 
 Functions and Methods are used to execute code. Functions are declared with the `function` keyword. Methods are functions that are part of an object.
 
@@ -169,4 +171,6 @@ const name = "Peter";
 name.toUpperCase().split(""); // ["P", "E", "T", "E", "R"]
 ```
 
-[Zurück zur Übersicht](/Modern-Javascript-Course/) | [Nächstes Kapitel](/Modern-Javascript-Course/chapter04-ObjectLiterals)
+---
+
+[< Previous Chapter](/Modern-Javascript-Course/chapter03-FunctionsAndMethods) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter04-ObjectLiterals)

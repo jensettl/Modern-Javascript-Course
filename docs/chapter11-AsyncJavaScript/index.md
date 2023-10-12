@@ -1,6 +1,8 @@
 # Chapter11 - Async JavaScript
 
-[Zurück zur Übersicht](/Modern-Javascript-Course/) | [Nächstes Kapitel](/Modern-Javascript-Course/chapter13-LocalStorage/)
+[< Previous Chapter](/Modern-Javascript-Course/chapter10-DatesAndTimes) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter13-LocalStorage/)
+
+---
 
 Async JavaScript can be used to make requests to a server, and then do something with the response after it's returned.
 
@@ -244,4 +246,6 @@ getTodos()
 	.catch((err) => console.log("Rejected:", err.message));
 ```
 
-[Zurück zur Übersicht](/Modern-Javascript-Course/) | [Nächstes Kapitel](/Modern-Javascript-Course/chapter13-LocalStorage/)
+---
+
+[< Previous Chapter](/Modern-Javascript-Course/chapter10-DatesAndTimes) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter13-LocalStorage/)

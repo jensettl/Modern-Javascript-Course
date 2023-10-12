@@ -1,6 +1,6 @@
 # Chapter04 - Object Literals
 
-[Zurück zur Übersicht](/Modern-Javascript-Course/) | [Nächstes Kapitel](/Modern-Javascript-Course/chapter05-DocumentObjectModel)
+[< Previous Chapter](/Modern-Javascript-Course/chapter03-FunctionsAndMethods) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter05-DocumentObjectModel)
 
 Object Literals are used to create objects. Objects are used to store data in key-value pairs. Objects can contain functions.
 
@@ -147,4 +147,6 @@ const user = {
 };
 ```
 
-[Zurück zur Übersicht](/Modern-Javascript-Course/) | [Nächstes Kapitel](/Modern-Javascript-Course/chapter05-DocumentObjectModel)
+---
+
+[< Previous Chapter](/Modern-Javascript-Course/chapter03-FunctionsAndMethods) | [**Back to Overview**](/Modern-Javascript-Course/) | [Next Chapter >](/Modern-Javascript-Course/chapter05-DocumentObjectModel)
