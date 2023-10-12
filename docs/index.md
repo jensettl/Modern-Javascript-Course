@@ -2,9 +2,11 @@
 
 This is the documentation for the course "[Modern JavaScript (Complete Guide)](https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/)" on Udemy.
 
-## Course Content
+The code mentioned in this repository belongs to the course and is not my own. I have only added some comments to the code to better understand the concepts and wrote a documentation for the course. The code is not meant to be used in production. The Code is publicy available on [GitHub](https://github.com/iamshaunjp/modern-javascript/tree/master)
 
----
+> **Note**: The course is not free. You have to buy it on Udemy.
+
+## Course Content
 
 ### Chapter 1: JavaScript Basics
 
@@ -58,7 +60,8 @@ This is the documentation for the course "[Modern JavaScript (Complete Guide)](h
 
 > **Topics**:
 
-[Chapter07 - Project Quiz](Modern-Javascript-Course/chapter07-Project-Quiz/index.html)
+[Chapter07 - Project Quiz](Modern-Javascript-Course/chapter07-Project-Quiz\index.html)
+[Chapter07 - Project Quiz](chapter07-Project-Quiz\index.html)
 
 ---
 
